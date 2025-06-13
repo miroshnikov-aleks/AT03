@@ -15,7 +15,7 @@ pip install requests pytest
 
 ## Использование
 
-ля получения случайного изображения кошки, импортируйте и вызовите функцию get_cat_image из файла main.py:
+Для получения случайного изображения кошки, импортируйте и вызовите функцию get_cat_image из файла main.py:
 ```python
 from main import get_cat_image
 
@@ -37,10 +37,10 @@ pytest
 
 ## Структура проекта
 
-- main.py: Основной файл с функцией get_cat_image.
-- test_main.py: Тесты для функции get_cat_image.
-- test2_main.py: Дополнительные тесты для функции get_cat_image.
-- README.md: Этот файл с описанием проекта.
+- [main.py](main.py): Основной файл с функцией get_cat_image.
+- [test_main.py](test_main.py): Тесты для функции get_cat_image.
+- [test2_main.py](test2_main.py): Дополнительные тесты для функции get_cat_image.
+- [README.md](README.md): Этот файл с описанием проекта.
 
 ## Лицензия
 
